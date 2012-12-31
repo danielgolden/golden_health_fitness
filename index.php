@@ -19,7 +19,7 @@ include ('includes/top.php')
 		<section class="main_content">
 			<div id="slider" class="nivoSlider">
 			    <img src="images/temp/slide_1.jpg" alt="" title="#slide_1_caption" />
-			    img src="images/temp/slide_1.jpg" alt="" title="#slide_2_caption" />
+			    <img src="images/temp/slide_1.jpg" alt="" title="#slide_2_caption" />
 			    <img src="images/temp/slide_1.jpg" alt="" title="#slide_1_caption" />
 			    <img src="images/temp/slide_1.jpg" alt="" title="#slide_2_caption" />
 			</div>
