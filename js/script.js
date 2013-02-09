@@ -20,11 +20,12 @@ $(function() {
     
     // Home content slider action
     var slider = $('.home_content_slider').bxSlider({
-        controls: false
+        controls: false,
+        pager: false
     });
     
     $('.prev').click(function(){
-        slider.goToPreviousSlide();
+        slider.goToPrevSlide();
         return false;
     });
     
