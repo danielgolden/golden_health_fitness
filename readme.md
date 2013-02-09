@@ -1,3 +1,3 @@
 # Golden Health & Fitness
 
-This is a site I built a few years back for Anita.
+Anita, if you're not sure what to do with these files let me know. 
